@@ -6,3 +6,5 @@ function prikaziDiv() {
 function skloniDiv() {
   div.style.display = "none";
 }
+
+console.log("Tomo");
